@@ -5,6 +5,8 @@ application performs all the CRUD operations (CREATE,READ,UPDATE,DELETE) FOR USE
 spring boot restapi
 
 to run this application just download it and open eclipse and import th projects 
+If you have postgreSQL then no need to change anything from the code , try to create e database with the name data_store
+else if you want to use MySQL then change the settings in the application.properties file and database connection properties in all the controller files
 
 Note: if you don't have the Spring Boot Api probably you need to download to run the example 
 
